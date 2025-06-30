@@ -1,0 +1,9 @@
+Size of 345 in qlonglong 8 bytes or 64 bits
+Size of 345 in qreal 8 bytes or 64 bits
+Can be qlonglong  or qreal
+Size of 45 in qlonglong 8 bytes or 64 bits
+Size of 45 in qreal 8 bytes or 64 bits
+Size of 45 in qint8 1 bytes or 8 bits
+Can be qlonglong or qreal or qint8
+Size of 4.76589e+06 in qreal 8 bytes or 64 bits
+Can be  qreal 
